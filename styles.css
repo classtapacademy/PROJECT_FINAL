@@ -251,7 +251,7 @@ nav {
 
 /* Footer */
 footer {
-  background-color: var(--dark);
+  background-color: darkblue;
   color: white;
   padding: 3rem 2rem;
 }
